@@ -4,4 +4,4 @@ This model takes a momentum-based trading strategy and filters signals into "buy
 
 ## Files
 ### SymbolPreprocess
-This file downloads 
+This file downloads, cleans and processes data for several cryptocurrency symbols. 
